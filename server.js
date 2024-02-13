@@ -33,7 +33,7 @@ app.get("/", (req, res) => {
             name: "Jane",
             age: 50,
             occupation: "Manager",
-            company: "RBC",
+            company: "Scotiabank",
             visible: true
         }
     ];
